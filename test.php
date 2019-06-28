@@ -1,3 +1,3 @@
 <?php
 
-echo 'first line added';
+echo 'first line altered';
